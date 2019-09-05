@@ -1,4 +1,4 @@
-name := """WWCAugust27Talk"""
+name := """twitterstatisticservice"""
 organization := "com.example"
 
 version := "1.0-SNAPSHOT"
