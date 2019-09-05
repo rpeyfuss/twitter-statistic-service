@@ -13,5 +13,6 @@ libraryDependencies ++= Seq(guice, ws, filters,
     "com.github.stijndehaes" %% "play-prometheus-filters" % "0.6.0-rc1",
     "io.zipkin.brave.play" %% "play-zipkin-tracing-play" % "3.0.1",
     "org.webjars" % "swagger-ui" % "3.22.2",
-    "io.honeycomb.libhoney" % "libhoney-java" % "1.1.0"
+    "io.honeycomb.libhoney" % "libhoney-java" % "1.1.0",
+    "org.reactivemongo" %% "reactivemongo" % "0.18.3"
 )
